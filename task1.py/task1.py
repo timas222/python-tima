@@ -6,7 +6,7 @@
 #- 8,9 -> нет
 
 
-print('введите число')
+print('введите первое число')
 first_number = int (input())
 print('введите второе число')
 second_number = int(input())

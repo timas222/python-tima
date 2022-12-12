@@ -3,4 +3,4 @@
 num=int(input('введите число:\n'))
 r=range(-num,num+1)
 arr=list(r)
-print(arr)
+print (arr)

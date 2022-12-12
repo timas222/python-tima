@@ -24,11 +24,3 @@
 # elif e_number > max_number:
 #     max_number = e_number
 # print(max_number)
-
-
-nums = [4, 6, 8, 22, 77, 2]
-maximum = nums[0]
-for i in nums:
-    if maximum < i:
-    maximum = i
-print (maximum)
